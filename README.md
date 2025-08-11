@@ -1,4 +1,4 @@
-# 🌏 KRX Stock Trader
+# 🌏 alpha-hunter (KRX Stock Trader)
 > 국내(코스피·코스닥) 자동매매 봇 — Python 기반, 백테스트 및 실매매 연동을 지원합니다.
 
 **KRX Stock Trader**는 원래 해외 시장용으로 설계된 프로젝트를  
